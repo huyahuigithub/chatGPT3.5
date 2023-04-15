@@ -1,7 +1,7 @@
 # chatGPT3.5
 chatGPT3.5前后端源码
 
-chatGPT3.5，增加AI绘图，管理员配置功能，模块问答等，即将上线，想要搭建同款的可联系13121822558（微信）
+chatGPT3.5，增加AI绘图，管理员配置功能，模块问答等，想要搭建同款或需要源码的小伙伴可联系13121822558（微信）
 
 ![微信图片_20230415114117](https://user-images.githubusercontent.com/125850273/232181361-18c2bcbd-6603-4539-8b09-d05f9262ed17.jpg)
 ![微信图片_20230415114136](https://user-images.githubusercontent.com/125850273/232181367-70ab07eb-76d2-4fa1-a1d1-e2baaf06c0b9.jpg)
